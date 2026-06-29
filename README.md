@@ -25,7 +25,7 @@ Aluno do **SENAI Blumenau**, cursando o **Ensino Médio integrado ao Técnico em
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,java,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,java,git,github" />
 
 </div>
 
