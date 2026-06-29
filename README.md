@@ -24,9 +24,7 @@ Atualmente curso o **3º ano do Ensino Médio integrado ao Técnico em Desenvolv
 ## Tecnologias
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,java,git,github" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,java,git,github" />
 </div>
 
 ---
@@ -35,12 +33,12 @@ Atualmente curso o **3º ano do Ensino Médio integrado ao Técnico em Desenvolv
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=davipnov&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davipnov&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=davipnov&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -51,8 +49,6 @@ Atualmente curso o **3º ano do Ensino Médio integrado ao Técnico em Desenvolv
 ![Snake animation](https://raw.githubusercontent.com/davipnov/davipnov/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
-
 <i>"Sempre aprendendo e criando algo novo."</i>
-
 </div>
 ```
