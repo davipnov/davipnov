@@ -1,37 +1,37 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Davi Novaes!
+# Olá, eu sou o Davi Novaes 👋
 
-💻 Estudante de Desenvolvimento de Sistemas  
-🎓 17 anos  
-🏫 Aluno do SENAI - Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas
+Estudante de Desenvolvimento de Sistemas • 17 anos • Brasil
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=24&center=true&vCenter=true&width=600&lines=Apaixonado+por+Tecnologia;Estudante+de+Desenvolvimento+de+Sistemas;Sempre+aprendendo+algo+novo!" />
+Aluno do **SENAI Blumenau**, cursando o **Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas**.
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=24&center=true&vCenter=true&width=600&lines=Apaixonado+por+Tecnologia;Desenvolvimento+de+Sistemas;Sempre+aprendendo+algo+novo" />
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
--  Cursando o **3º ano do Ensino Médio** integrado ao **Técnico em Desenvolvimento de Sistemas** no SENAI.
--  Gosto de tecnologia desde pequeno e estou sempre buscando aprender coisas novas.
--  Atualmente estudando **programação, desenvolvimento web e lógica de programação**.
--  Objetivo: crescer na área de tecnologia e me tornar um desenvolvedor cada vez melhor.
+* Atualmente estou no **3º ano do Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas**.
+* Gosto de tecnologia desde pequeno e sempre procuro aprender coisas novas.
+* Tenho interesse principalmente em **programação e desenvolvimento web**.
+* Busco evoluir constantemente e ganhar experiência na área de tecnologia.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode" />
 
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -44,6 +44,6 @@
 
 <div align="center">
 
-### ✨ "A tecnologia transforma ideias em realidade."
+<i>"Sempre aprendendo e criando algo novo."</i>
 
 </div>
