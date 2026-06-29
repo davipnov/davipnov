@@ -48,7 +48,7 @@ Atualmente curso o **3º ano do Ensino Médio integrado ao Técnico em Desenvolv
 
 ## Atividade
 
-![Snake animation](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/davipnov/davipnov/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
 
