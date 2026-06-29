@@ -24,7 +24,7 @@ Estudante do **Ensino Médio integrado ao Técnico em Desenvolvimento de Sistema
 ## Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,mysql,git,github,idea" />
 </div>
 
 ---
