@@ -2,31 +2,26 @@
 
 # Olá, eu sou o Davi Novaes 👋
 
-`17 anos` • `Desenvolvedor em formação`
+Estudante de Desenvolvimento de Sistemas • 17 anos • Brasil
 
-Aluno do **SENAI Blumenau**, cursando o **Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas**.
+Atualmente curso o **3º ano do Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas no SENAI Blumenau**, sempre buscando aprender novas tecnologias e evoluir como desenvolvedor.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Apaixonado+por+Tecnologia;Desenvolvimento+de+Sistemas;Sempre+aprendendo+algo+novo" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo" />
 
 </div>
 
 ---
 
-## 📌 Sobre mim
+## Sobre mim
 
-<details>
-<summary>👨‍💻 Clique para abrir</summary>
-
--  3º ano do Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas.
--  Gosto de tecnologia desde pequeno.
--  Atualmente estudando programação e desenvolvimento web.
--  Buscando evoluir cada vez mais como desenvolvedor.
-
-</details>
+- 🎓 Estudante do SENAI Blumenau.
+- 💻 Interesse em programação e desenvolvimento web.
+- 🚀 Sempre procurando aprender e desenvolver novos projetos.
+- 📚 Em constante evolução na área de tecnologia.
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <div align="center">
 
@@ -36,7 +31,7 @@ Aluno do **SENAI Blumenau**, cursando o **Ensino Médio integrado ao Técnico em
 
 ---
 
-## 📊 GitHub
+## Estatísticas
 
 <div align="center">
 
@@ -51,15 +46,9 @@ Aluno do **SENAI Blumenau**, cursando o **Ensino Médio integrado ao Técnico em
 
 ---
 
-## 🐍 Contribuições
+## Atividade
 
-<div align="center">
-
-![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
+![Snake animation](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
 
