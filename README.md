@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**davipnov/davipnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou o Davi Novaes!
 
-Here are some ideas to get you started:
+💻 Estudante de Desenvolvimento de Sistemas  
+🎓 17 anos  
+🏫 Aluno do SENAI - Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=24&center=true&vCenter=true&width=600&lines=Apaixonado+por+Tecnologia;Estudante+de+Desenvolvimento+de+Sistemas;Sempre+aprendendo+algo+novo!" />
+
+</div>
+
+---
+
+## 🚀 Sobre mim
+
+-  Cursando o **3º ano do Ensino Médio** integrado ao **Técnico em Desenvolvimento de Sistemas** no SENAI.
+-  Gosto de tecnologia desde pequeno e estou sempre buscando aprender coisas novas.
+-  Atualmente estudando **programação, desenvolvimento web e lógica de programação**.
+-  Objetivo: crescer na área de tecnologia e me tornar um desenvolvedor cada vez melhor.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,vscode" />
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ "A tecnologia transforma ideias em realidade."
+
+</div>
