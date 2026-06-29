@@ -1,12 +1,12 @@
 <div align="center">
 
-# Olá, eu sou o Davi Novaes 👋
+# Davi Novaes
 
-Estudante de Desenvolvimento de Sistemas • 17 anos • Brasil
+Desenvolvedor em formação | 17 anos | Brasil
 
-Atualmente curso o **3º ano do Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas no SENAI Blumenau**, sempre buscando aprender novas tecnologias e evoluir como desenvolvedor.
+Estudante do **Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas no SENAI Blumenau**.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Desenvolvimento+de+Sistemas;Tecnologia+e+Programação;Sempre+aprendendo+algo+novo" />
 
 </div>
 
@@ -14,10 +14,10 @@ Atualmente curso o **3º ano do Ensino Médio integrado ao Técnico em Desenvolv
 
 ## Sobre mim
 
-- 🎓 Estudante do SENAI Blumenau.
-- 💻 Interesse em programação e desenvolvimento web.
-- 🚀 Sempre procurando aprender e desenvolver novos projetos.
-- 📚 Em constante evolução na área de tecnologia.
+- Estudante do 3º ano do Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas.
+- Interesse em programação, desenvolvimento web e tecnologia.
+- Sempre buscando aprender novas ferramentas e desenvolver projetos.
+- Em constante evolução para construir uma carreira na área de desenvolvimento.
 
 ---
 
@@ -36,7 +36,7 @@ Atualmente curso o **3º ano do Ensino Médio integrado ao Técnico em Desenvolv
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=davipnov&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davipnov&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=davipnov&theme=tokyonight&hide_border=true"/>
 
