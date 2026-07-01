@@ -2,14 +2,17 @@
 
 # Davi Novaes
 
-Desenvolvedor em formação | 17 anos | Brasil
+Desenvolvedor em formação | 17 anos | Brasil 🇧🇷
 
-Estudante do **Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas no SENAI Blumenau**.
+Estudante do **Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas - SENAI Blumenau**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Desenvolvimento+de+Sistemas;Tecnologia+e+Programação;Sempre+aprendendo+algo+novo" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=650&lines=Desenvolvimento+de+Sistemas;Java+•+HTML+•+CSS;Sempre+aprendendo+algo+novo." />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=davipnov&label=Visualizações&color=0e75b6&style=for-the-badge"/>
 
 </div>
-
 ---
 
 ## Sobre mim
