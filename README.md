@@ -38,7 +38,7 @@ Estudante do **Ensino Médio integrado ao Técnico em Desenvolvimento de Sistema
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=davipnov&theme=tokyonight&hide_border=true"/>
+https://streak-stats.demolab.com?user=davipnov&theme=tokyonight&hide_border=true
 
 </div>
 
