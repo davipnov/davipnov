@@ -59,3 +59,17 @@ Estudante do **Ensino Médio integrado ao Técnico em Desenvolvimento de Sistema
 </p>
 
 <br>
+
+## 🌐 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/davi-pinto-novaes-595130363/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:davi.pnovs@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div
