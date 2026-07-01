@@ -29,17 +29,17 @@ Estudante do **Ensino Médio integrado ao Técnico em Desenvolvimento de Sistema
 
 ---
 
-## Estatísticas
+## 📊 Estatísticas
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=davipnov&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=davipnov&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davipnov&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davipnov&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=davipnov&theme=tokyonight&hide_border=true"/>
+<img width="700" src="https://streak-stats.demolab.com?user=davipnov&theme=tokyonight&hide_border=true"/>
 
 </div>
 
