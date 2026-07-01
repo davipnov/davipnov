@@ -8,10 +8,6 @@ Estudante do **Ensino Médio integrado ao Técnico em Desenvolvimento de Sistema
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=650&lines=Desenvolvimento+de+Sistemas;Java+•+HTML+•+CSS;Sempre+aprendendo+algo+novo." />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=davipnov&label=Visualizações&color=0e75b6&style=for-the-badge"/>
-
 </div>
 ---
 
